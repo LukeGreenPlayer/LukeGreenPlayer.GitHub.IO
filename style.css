@@ -57,3 +57,7 @@ font-family: "Arial";
 font-size: 18px;
 color: #169dd5
 }
+
+audio::-webkit-media-controls-panel {
+background-color: #98c13d !important;
+}
